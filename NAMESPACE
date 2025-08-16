@@ -1,0 +1,11 @@
+export("Data_G", "SIS_GOAL","CBS","GOAL","SIS_OAL", "OAL")
+importFrom(MASS, mvrnorm)
+importFrom(Ball,bcov)
+importFrom(stats, predict, predict.lm, qnorm, runif, rnorm, sd, var, formula, lm, coef, binomial, rgamma, rpois,gaussian)
+importFrom(glmnet, glmnet, cv.glmnet, coef.glmnet)
+
+
+
+
+
+

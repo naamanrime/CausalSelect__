@@ -1,0 +1,19 @@
+Package: CausalSelect
+Type: Package
+Title: Variable Selection for High-Dimensional Causal Inference
+Version: 1.0
+Date: 2025-05-26
+Author: Rime NAAMAN and Ismaila Balde 
+Maintainer: Ismaila Baldé <ismaila.balde@umoncton.ca>
+Description: Variable selection methods for high-dimensional causal inference, including the Outcome-Adaptive Lasso (OAL), Generalized Outcome-Adaptive Lasso (GOAL), CBS, SIS_OAL, and SIS_GOAL.
+License: GPL-3
+RoxygenNote: 7.3.2
+Imports:
+    MASS,
+    stats,
+    Ball,
+    glmnet
+Encoding: UTF-8
+
+
+
